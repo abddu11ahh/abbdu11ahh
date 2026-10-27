@@ -1,5 +1,12 @@
 # abbdu11ahh
-My first repository.
-git remote add origin https://github.com/abddu11ahh/abbdu11ahh.git
-git branch -M main
-git push -u origin main
+# My First Project
+
+Hi! I'm learning GitHub from scratch.
+
+## My Goals
+- Learn Git and GitHub
+- Build AI projects
+- Improve my programming skills
+
+## Progress
+Day 1: Created my first repository and README!
