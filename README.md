@@ -10,3 +10,6 @@ Hi! I'm learning GitHub from scratch.
 
 ## Progress
 Day 1: Created my first repository and README!
+
+## What I Learned Today
+I created my first GitHub repository and README!
